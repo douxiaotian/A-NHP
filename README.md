@@ -1,3 +1,6 @@
+# EHR time series modeling
+Use for EHR event prediction, Jason Dou
+
 # A-NHP
 Public Repo for Attentive-NeuralHawkesProcess (A-NHP). 
 
